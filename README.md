@@ -1,4 +1,4 @@
-# stil4m Maven Repository
+# 8bit.life Maven Repository
 ---
 
 ## Available modules
