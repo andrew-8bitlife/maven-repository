@@ -4,9 +4,9 @@
 ## Available modules
 
 
-| Name                         | Group Id      | Artifact ID                   | Latest version | Source |
-|------------------------------|---------------|-------------------------------|----------------|--------|
-|Dependent Library Demo        | eightbit-life | dependent-library-demo        | 1.0            | [Repository](https://github.com/andrew-8bitlife/dependent-library-demo) |
+| Name                         | Group Id      | Artifact ID                   | Latest version | Type    | Source |
+|------------------------------|---------------|-------------------------------|----------------|---------|
+|Dependent Library Demo        | eightbit-life | dependent-library-demo        | 1.1            | Private | [Repository](https://github.com/andrew-8bitlife/dependent-library-demo) |
 
 ## Repository management
 
